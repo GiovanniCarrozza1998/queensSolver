@@ -46,14 +46,3 @@ def trova_prima_soluzione_no_vertici(A):
     else:
         print("Nessuna soluzione trovata.")
         return None
-"""
-# --- ESEMPIO USO: (modifica A come necessario!) ---
-A = np.array([[3, 3, 3, 3, 3, 4, 4, 4],
- [3, 2, 2, 2, 4, 4, 4, 1],
- [2, 2, 2, 2, 2, 2, 1, 1],
- [2, 2, 2, 5, 2, 2, 2, 1],
- [2, 2, 2, 5, 2, 2, 2, 6],
- [2, 5, 5, 5, 2, 6, 6, 6],
- [2, 7, 7, 7, 2, 2, 2, 8],
- [7, 7, 7, 8, 8, 8, 8, 8]])
-_ = trova_prima_soluzione_no_vertici(A)"""
