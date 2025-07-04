@@ -44,8 +44,3 @@ def colormap_griglia(img_path, n):
     plt.show()"""
 
     return matrice
-"""
-# --- ESEMPIO USO ---
-
-n = 8  # cambia in base alla dimensione della tua griglia
-matrice = colormap_griglia('C:\\Users\\503415936\\Pictures\\griglia_estratta.png', n)"""
