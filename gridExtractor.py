@@ -45,5 +45,3 @@ def estrai_griglia(input_path, output_path, debug=False):
         cv2.imwrite("debug_estrazione_griglia.png", debug_img)
         #print("Immagine debug salvata come debug_estrazione_griglia.png")
 
-# --- ESEMPIO USO ---"""
-"""estrai_griglia('C:\\Users\\503415936\\Pictures\\queens_grid_1.PNG', 'C:\\Users\\503415936\\Pictures\\griglia_estratta.png', debug=True)"""
